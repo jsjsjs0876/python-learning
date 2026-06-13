@@ -5,6 +5,7 @@
 ## 📁 内容结构
 - `hello world.py` - 第一个程序，环境测试
 - `day 1.py` - 个人信息收集器（input + 类型转换 + f-string）
+- `day1 review.py` - if判断与逻辑运算符复习
 ## 🚀 学习目标
 - [x] Python 基础语法
 - [ ] 爬虫 (requests, BeautifulSoup)

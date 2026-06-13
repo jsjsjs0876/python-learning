@@ -6,7 +6,8 @@
 - `hello world.py` - 第一个程序，环境测试
 - `day 1.py` - 个人信息收集器（input + 类型转换 + f-string）
 - `day1 review.py` - if判断与逻辑运算符复习
-- - `grade_checker.py` - 成绩等级判定器（if-elif-else 综合练习）
+- `grade_checker.py` - 成绩等级判定器（if-elif-else 综合练习）
+- `guess_number.py` - 猜数字游戏（while循环 + break + random）
 ## 🚀 学习目标
 - [x] Python 基础语法
 - [ ] 爬虫 (requests, BeautifulSoup)

@@ -16,7 +16,7 @@
 #     print("杂鱼~杂鱼~，这密码怎么跟你一样不堪一击")
 # elif secret.isalpha():
 #     print("怎么只有字母啊，杂鱼~杂鱼~，依旧跟你的功能一样不堪一击呦")
-# elif secret.isalnuma():
+# elif secret.isalnum():
 #     print("哼……别、别以为这样就算赢了！我只是……暂时配合你一下而已！")
 # else:
 #     print("你犯规了吧，这是什么啊")

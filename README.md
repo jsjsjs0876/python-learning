@@ -8,11 +8,17 @@
 - `day1 review.py` - if判断与逻辑运算符复习
 - `grade_checker.py` - 成绩等级判定器（if-elif-else 综合练习）
 - `guess_number.py` - 猜数字游戏（while循环 + break + random）
+- `day3学习整合之数字分类器.py` - 数字分类器（列表 + for循环 + 奇偶判断）
+
+
 ## 🚀 学习目标
 - [x] Python 基础语法
 - [ ] 爬虫 (requests, BeautifulSoup)
 - [ ] 数据分析 (pandas, matplotlib)
 - [ ] 简单 AI 应用
 
+
 ## 📅 更新记录
 - 2026-06-12: 创建仓库，上传第一个练习。
+- 2026-06-13: 上传成绩等级判定器、猜数字游戏。
+- 2026-06-14: 上传数字分类器（列表+for+奇偶判断）。
